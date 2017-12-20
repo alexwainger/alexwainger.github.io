@@ -18,7 +18,7 @@ title: Alex Wainger
 email: alex.wainger@columbia.edu
 description: "Brown grad, data science master's student at Columbia, incoming data engineer at Facebook."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "alexwainger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexwainger.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alexwainger
 
 # Build settings
