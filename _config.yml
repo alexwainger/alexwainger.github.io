@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: Alex Wainger
-title:
+title: Alex Wainger
 email: alex.wainger@columbia.edu
 description: "Brown grad, data science master's student at Columbia, incoming data engineer at Facebook."
 baseurl: "" # the subpath of your site, e.g. /blog
